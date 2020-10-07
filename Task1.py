@@ -5,3 +5,6 @@ def cos():
 cos()
 print(max('Hello world'))
 print(min('helloworld'))
+x = [1,23,4]
+x.append(4)
+print(x)
